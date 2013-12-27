@@ -1,9 +1,1 @@
-v1
-update
-master
-V1 second
-
-merged
-
-From server before merging
-
+Server before merging
